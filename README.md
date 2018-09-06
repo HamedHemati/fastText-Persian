@@ -1,1 +1,1 @@
-# fastText-Persian
+# fastText Persian
